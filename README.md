@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Watch sanake eating my repo
+
+![snake gif](https://github.com/shivam8512345/shivam8512345/blob/output/github-contribution-grid-snake.gif)
